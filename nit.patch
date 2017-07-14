@@ -1,0 +1,12 @@
+diff --git a/file.c b/file.c
+index 6e51856..769203d 100644
+--- a/file.c
++++ b/file.c
+@@ -4,5 +4,7 @@ int void()
+ 	int a=40,b=80;
+ 	int c=a/b;
+ 	printf("divide value%d",c);
++	printf("divide value%d",c);
++	printf("divide value%d",c);
+ 	return 0;
+ }
